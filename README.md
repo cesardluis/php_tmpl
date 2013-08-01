@@ -2,7 +2,7 @@
 
 ##Usage
 
-####import
+####template
 ```html
 <!doctype html>
 <html lang="en">
@@ -19,6 +19,7 @@
 
 ```
 
+####import
 ```php
 include_once( 'tmpl.class.php' );
 
